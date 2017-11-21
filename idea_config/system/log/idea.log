@@ -3882,3 +3882,15 @@ java.lang.Throwable
 2017-11-21 14:55:54,977 [ 682824]  ERROR - e.fileTemplates.impl.FTManager - VM: OpenJDK 64-Bit Server VM 
 2017-11-21 14:55:54,977 [ 682824]  ERROR - e.fileTemplates.impl.FTManager - Vendor: JetBrains s.r.o 
 2017-11-21 14:55:54,977 [ 682824]  ERROR - e.fileTemplates.impl.FTManager - OS: Windows 10 
+2017-11-21 15:10:49,873 [1577720]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2017-11-21 15:10:49,873 [1577720]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2017-11-21 15:10:49,904 [1577751]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-11-21 15:10:49,904 [1577751]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 232 auto-detected files
+Elapsed time on auto-detect: 5385 ms 
+2017-11-21 15:10:49,920 [1577767]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2017-11-21 15:10:49,935 [1577782]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2017-11-21 15:10:51,560 [1579407]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2017-11-21 15:10:51,638 [1579485]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2017-11-21 15:10:51,857 [1579704]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2017-11-21 15:10:51,873 [1579720]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2017-11-21 15:10:51,888 [1579735]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
