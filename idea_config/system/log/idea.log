@@ -1,0 +1,11 @@
+2017-11-21 14:44:32,153 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-11-21 14:44:32,169 [     16]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-171.3780.107, 22 Mar 2017 16:19) 
+2017-11-21 14:44:32,169 [     16]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-11-21 14:44:32,169 [     16]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-736-b13 (JetBrains s.r.o) 
+2017-11-21 14:44:32,169 [     16]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b13 (OpenJDK 64-Bit Server VM) 
+2017-11-21 14:44:32,185 [     32]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=D:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2017.1\IntelliJ IDEA 2017.1\bin\idea64.exe.vmoptions -Xbootclasspath/a:D:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2017.1\IntelliJ IDEA 2017.1\lib\boot.jar -Didea.jre.check=true -Didea.paths.selector=IntelliJIdea2017.1 -XX:ErrorFile=C:\Users\LXF\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\LXF\java_error_in_idea.hprof 
+2017-11-21 14:44:32,185 [     32]   INFO -        #com.intellij.idea.Main - ext: D:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2017.1\IntelliJ IDEA 2017.1\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-11-21 14:44:32,185 [     32]   INFO -        #com.intellij.idea.Main - JNU charset: GBK 
+2017-11-21 14:44:32,263 [    110]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 78 ms 
+2017-11-21 14:44:32,263 [    110]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-11-21 14:44:32,263 [    110]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
